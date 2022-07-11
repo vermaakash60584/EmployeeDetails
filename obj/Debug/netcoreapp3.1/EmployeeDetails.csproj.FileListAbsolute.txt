@@ -146,3 +146,8 @@ D:\Cognizant\C#\C# Code\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp3.1\
 D:\Cognizant\C#\C# Code\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp3.1\EmployeeDetails.dll
 D:\Cognizant\C#\C# Code\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp3.1\EmployeeDetails.pdb
 D:\Cognizant\C#\C# Code\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp3.1\EmployeeDetails.genruntimeconfig.cache
+D:\Cognizant\C#\C# Code\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Create.cshtml.g.cs
+D:\Cognizant\C#\C# Code\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Delete.cshtml.g.cs
+D:\Cognizant\C#\C# Code\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Details.cshtml.g.cs
+D:\Cognizant\C#\C# Code\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Edit.cshtml.g.cs
+D:\Cognizant\C#\C# Code\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Index.cshtml.g.cs
